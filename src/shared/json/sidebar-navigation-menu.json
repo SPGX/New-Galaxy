@@ -1,0 +1,122 @@
+[
+  {
+    "id": "A",
+    "name": "menu-a",
+    "routes": [
+      {
+        "id": "A1",
+        "name": "new metaverse",
+        "path": "/",
+        "icon": "galaxy-new-metaverse"
+      }
+    ]
+  },
+  {
+    "id": "B",
+    "name": "menu-b",
+    "routes": [
+      {
+        "id": "B1",
+        "name": "new land",
+        "path": "/new-land",
+        "icon": "galaxy-location"
+      },
+      {
+        "id": "B2",
+        "name": "new marketplace",
+        "path": "#",
+        "icon": "galaxy-buy",
+        "subMenu": [
+          {
+            "subId": "B2-1",
+            "name": "collections",
+            "path": "/collections",
+            "icon": "galaxy-collections"
+          },
+          {
+            "subId": "B2-2",
+            "name": "nfts",
+            "path": "/nfts",
+            "icon": "galaxy-nfts"
+          }
+        ]
+      },
+      {
+        "id": "B3",
+        "name": "stats",
+        "path": "/state",
+        "icon": "galaxy-status"
+      }
+    ]
+  },
+  {
+    "id": "C",
+    "name": "menu-c",
+    "routes": [
+      {
+        "id": "C1",
+        "name": "account",
+        "path": "#C1",
+        "icon": "galaxy-profile",
+        "subMenu": [
+          {
+            "subId": "C1-1",
+            "name": "profile",
+            "path": "/profile",
+            "icon": "galaxy-collections"
+          },
+          {
+            "subId": "C1-2",
+            "name": "my collection",
+            "path": "/my-collection",
+            "icon": "galaxy-nfts"
+          },
+          {
+            "subId": "C1-3",
+            "name": "favourites",
+            "path": "/favourites",
+            "icon": "galaxy-collections"
+          },
+          {
+            "subId": "C1-4",
+            "name": "settings",
+            "path": "/settings",
+            "icon": "galaxy-collections"
+          }
+        ]
+      },
+      {
+        "id": "C2",
+        "name": "wallet",
+        "path": "/wallet",
+        "icon": "galaxy-wallet"
+      },
+      {
+        "id": "C3",
+        "name": "help",
+        "path": "#",
+        "icon": "galaxy-faq",
+        "subMenu": [
+          {
+            "subId": "C3-1",
+            "name": "user manual",
+            "path": "/usermanual",
+            "icon": "galaxy-collections"
+          },
+          {
+            "subId": "C3-2",
+            "name": "faq",
+            "path": "/faq",
+            "icon": "galaxy-nfts"
+          },
+          {
+            "subId": "C3-3",
+            "name": "contact us",
+            "path": "/contact-us",
+            "icon": "galaxy-nfts"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "alwaysStrict": true,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "lib": [
+      "ESNext",
+      "DOM",
+      "DOM.Iterable",
+      "ScriptHost"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "@image/*": [
+        "public/images/*"
+      ],
+      "@style/*": [
+        "src/assets/style/*"
+      ],
+      "@styles/*": [
+        "styles/*"
+      ],
+      "@constants/*": [
+        "src/constants/*"
+      ],
+      "@hooks/*": [
+        "src/hooks/*"
+      ],
+      "@store/*": [
+        "src/store/*"
+      ],
+      "@hoc/*": [
+        "src/hoc/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@shared/*": [
+        "src/shared/*"
+      ],
+      "@types/*": [
+        "src/types/*"
+      ],
+      "@helper/*": [
+        "src/helper/*"
+      ]
+    },
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ESNext",
+    "incremental": true,
+    "typeRoots": [
+      "node_modules/@types",
+      "src/**/*.tsx"
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "tests/**/*.ts",
+    "tests/**/*.tsx", "src/react-i18next.d.ts",
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.spec.ts"
+  ]
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "time": "12h : 30min : 12s",
+    "collectionName": "Collectibeles",
+    "users": [
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+    ],
+    "favorite": 1,
+    "ETH": "5.4 ETH",
+    "background": "https://img.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?t=st=1662901922~exp=1662902522~hmac=8caf275169d050ba0dda53cba637b8b07026e7ed4b20c83c229e1c741e20ce2f"
+  },
+  {
+    "id": 2,
+    "time": "10h : 30min : 12s",
+    "collectionName": "Collectibeles",
+    "users": [
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+    ],
+    "favorite": 1,
+    "ETH": "5.4 ETH",
+    "background": "https://img.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?t=st=1662901922~exp=1662902522~hmac=8caf275169d050ba0dda53cba637b8b07026e7ed4b20c83c229e1c741e20ce2f"
+  },
+  {
+    "id": 3,
+    "time": "6h : 30min : 12s",
+    "collectionName": "Collectibeles",
+    "users": [
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+    ],
+    "favorite": 1,
+    "ETH": "5.4 ETH",
+    "background": "https://img.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?t=st=1662901922~exp=1662902522~hmac=8caf275169d050ba0dda53cba637b8b07026e7ed4b20c83c229e1c741e20ce2f"
+  },
+  {
+    "id": 4,
+    "time": "12h : 30min : 12s",
+    "collectionName": "Collectibeles",
+    "users": [
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+    ],
+    "favorite": 1,
+    "ETH": "5.4 ETH",
+    "background": "https://img.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?t=st=1662901922~exp=1662902522~hmac=8caf275169d050ba0dda53cba637b8b07026e7ed4b20c83c229e1c741e20ce2f"
+  },
+  {
+    "id": 5,
+    "time": "10h : 30min : 12s",
+    "collectionName": "Collectibeles",
+    "users": [
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+    ],
+    "favorite": 1,
+    "ETH": "5.4 ETH",
+    "background": "https://img.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?t=st=1662901922~exp=1662902522~hmac=8caf275169d050ba0dda53cba637b8b07026e7ed4b20c83c229e1c741e20ce2f"
+  },
+  {
+    "id": 6,
+    "time": "6h : 30min : 12s",
+    "collectionName": "Collectibeles",
+    "users": [
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "fullName": "@Cameron",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+    ],
+    "favorite": 1,
+    "ETH": "5.4 ETH",
+    "background": "https://img.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?t=st=1662901922~exp=1662902522~hmac=8caf275169d050ba0dda53cba637b8b07026e7ed4b20c83c229e1c741e20ce2f"
+  }
+]

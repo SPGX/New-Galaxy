@@ -1,0 +1,4 @@
+export enum TITLE_TYPE {
+  TITLE_SEE = 'TITLE_SEE',
+  TITLE_NO_SEE = 'TITLE_NO_SEE'
+}

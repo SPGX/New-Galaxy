@@ -1,0 +1,4 @@
+export enum BUTTON_TYPE {
+  TOP_UP_BALANCE = 'TOP_UP_BALANCE',
+  FRONT= 'FRONT'
+}

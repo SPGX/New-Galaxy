@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Peyton Miles",
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "price": 0.00345,
+    "type": "ETH",
+    "line": "up"
+  },
+  {
+    "name": "Renee Miller",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "price": 0.00345,
+    "type": "ETH",
+    "line": "up"
+  },
+  {
+    "name": "Lee Jensen",
+    "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+    "price": 0.00345,
+    "type": "ETH",
+    "line": "down"
+  },
+  {
+    "name": "Martin Banks",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "price": 0.00345,
+    "type": "ETH",
+    "line": "down"
+  },
+  {
+    "name": "Rafael barnes",
+    "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+    "price": 0.00345,
+    "type": "ETH",
+    "line": "up"
+  },
+  {
+    "name": "Willie Washington",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "price": 0.00345,
+    "type": "ETH",
+    "line": "up"
+  }
+]

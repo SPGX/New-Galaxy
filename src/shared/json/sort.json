@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Recently listed"
+  },
+  {
+    "id": 2,
+    "name": "Recently created"
+  },
+  {
+    "id": 3,
+    "name": "Recently sold"
+  },
+  {
+    "id": 4,
+    "name": "Price low to high"
+  },
+  {
+    "id": 5,
+    "name": "Price High to low"
+  },
+  {
+    "id": 6,
+    "name": "Most viewed"
+  },
+  {
+    "id": 7,
+    "name": "Most favourited"
+  },
+  {
+    "id": 8,
+    "name": "Most Oldest"
+  }
+]

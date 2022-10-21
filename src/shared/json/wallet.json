@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Sold",
+    "icon": "https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-vector-shopping-cart-icon-png-image_321037.jpg",
+    "items": {
+      "full_name": "Land collections",
+      "name": "Land 123"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "price": 4.5,
+    "types": "ETH",
+    "balance": "10,250",
+    "from": "You",
+    "to": "0x123456abcd",
+    "time": "11:17:01",
+    "date": "12/09/2022"
+  },
+  {
+    "type": "Bidding",
+    "icon": "https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-vector-shopping-cart-icon-png-image_321037.jpg",
+    "items": {
+      "full_name": "Land collections",
+      "name": "Land 123"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "price": 4.5,
+    "types": "ETH",
+    "balance": "10,250",
+    "from": "New Galaxy",
+    "to": "0xabcda1231",
+    "time": "11:17:01",
+    "date": "12/09/2022"
+  },
+  {
+    "type": "Outbidded",
+    "icon": "https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-vector-shopping-cart-icon-png-image_321037.jpg",
+    "items": {
+      "full_name": "Land collections",
+      "name": "Land 123"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "price": 4.5,
+    "types": "ETH",
+    "balance": "10,250",
+    "from": "John",
+    "to": "You",
+    "time": "11:17:01",
+    "date": "12/09/2022"
+  },
+  {
+    "type": "Purchased",
+    "icon": "https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-vector-shopping-cart-icon-png-image_321037.jpg",
+    "items": {
+      "full_name": "Land collections",
+      "name": "Land 123"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "price": 4.5,
+    "types": "ETH",
+    "balance": "10,250",
+    "from": "John",
+    "to": "You",
+    "time": "11:17:01",
+    "date": "12/09/2022"
+  },
+  {
+    "type": "Selling",
+    "icon": "https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-vector-shopping-cart-icon-png-image_321037.jpg",
+    "items": {
+      "full_name": "Land collections",
+      "name": "Land 123"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+    "price": 4.5,
+    "types": "ETH",
+    "balance": "10,250",
+    "from": "You",
+    "to": "-",
+    "time": "11:17:01",
+    "date": "12/09/2022"
+  }
+]
